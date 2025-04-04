@@ -1,6 +1,4 @@
-## Hey there!, Welcome to my Git repository
+## Welcome to Git
 
-- This is a sample README file for a Git repository.
-- This file is meant to be a placeholder for the actual README content.
-
+- This is coming from dev-yazan
 - I'm adding this from feature-branch
